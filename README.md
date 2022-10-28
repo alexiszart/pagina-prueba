@@ -1,2 +1,2 @@
-# pagina-prueba
+# pagina-prueba.github.io
 pagina prueba
